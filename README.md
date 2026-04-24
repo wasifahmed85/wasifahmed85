@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Junior+Laravel+Developer+%F0%9F%9A%80;PHP+%7C+Blade+%7C+Inertia.js+%7C+React;Building+Real-World+Web+Apps+%F0%9F%8C%8F;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=500&lines=Junior+Laravel+Developer;PHP+%7C+Blade+%7C+Inertia.js+%7C+React;Building+Real-World+Web+Apps;Open+to+Collaborate)](https://git.io/typing-svg)
 
 </div>
 
@@ -95,7 +95,10 @@ class WasifAhmed extends Developer
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wasifahmed85&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://img.shields.io/badge/Commits-4125+-FF2D20?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Repos-44+-6C3483?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Streak-14%20days-E91E8C?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Since-Feb%202025-005C84?style=for-the-badge&logo=calendar&logoColor=white)
 
 </div>
 
