@@ -48,6 +48,16 @@ class WasifAhmed extends Developer
 
 ---
 
+## 🗂️ Professional Profile Overview
+
+<div align="center">
+
+<img src="profile-overview.png" width="100%" alt="Professional Profile - Wasif Ahmed | Full-Stack Laravel Developer"/>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
