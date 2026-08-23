@@ -1,104 +1,183 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:6C3483&height=200&section=header&text=Wasif%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Laravel%20Developer%20%7C%20PHP%20%7C%20React&descAlignY=58&descSize=18" width="100%"/></div><div align="center">
-Typing SVG
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,50:9333EA,100:6C3483&height=220&section=header&text=Wasif%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Level%20Laravel%20Developer%20%7C%20PHP%20%7C%20React%20%7C%20Inertia.js&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/wasifahmed85">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+Laravel+applications;Turning+ideas+into+clean+code;Backend+today%2C+full-stack+tomorrow;Currently+shipping+at+%40MTS-Services&font=Fira+Code&center=true&width=600&height=45&color=FF2D20&vCenter=true&size=20&pause=1200" />
+</a>
 
 </div>
-👨‍💻 About Me
-PHP
 
+<br/>
+
+## 🧭 Quick Nav
+
+<div align="center">
+
+[![About](https://img.shields.io/badge/-About-FF2D20?style=for-the-badge)](#-about-me)
+[![Stack](https://img.shields.io/badge/-Tech_Stack-4B32C3?style=for-the-badge)](#️-tech-stack)
+[![Stats](https://img.shields.io/badge/-GitHub_Stats-6C3483?style=for-the-badge)](#-github-analytics)
+[![Projects](https://img.shields.io/badge/-Projects-2E8B57?style=for-the-badge)](#-featured-projects)
+[![Contact](https://img.shields.io/badge/-Contact-0A66C2?style=for-the-badge)](#-lets-connect)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```php
 <?php
 
-class WasifAhmed extends Developer
+declare(strict_types=1);
+
+final class WasifAhmed extends Developer implements FullStackCapable
 {
-    public string $name     = "Wasif Ahmed";
-    public string $username = "wasifahmed85";
-    public string $role     = "Junior Laravel Developer";
-    public string $company  = "@MTS-Services";
-    public string $since    = "February 2025";
-    public string $location = "Bangladesh 🇧🇩";
+    public readonly string $name     = "Wasif Ahmed";
+    public readonly string $username = "wasifahmed85";
+    public readonly string $role     = "Mid-Level Laravel Developer";
+    public readonly string $company  = "@MTS-Services";
+    public readonly string $since    = "February 2025";
+    public readonly string $location = "Bangladesh 🇧🇩";
 
     public array $skills = [
-        "backend"  => ["PHP", "Laravel", "REST API"],
-        "frontend" => ["Blade", "React", "TypeScript", "Inertia.js"],
-        "database" => ["MySQL"],
-        "tools"    => ["Git", "GitHub", "Composer", "npm"],
+        'backend'  => ['PHP 8+', 'Laravel', 'REST API Design', 'Queues & Jobs', 'Events & Listeners'],
+        'frontend' => ['React', 'TypeScript', 'Inertia.js', 'Blade'],
+        'database' => ['MySQL', 'Query Optimization', 'Eloquent ORM'],
+        'tools'    => ['Git', 'GitHub Actions', 'Composer', 'npm', 'Docker'],
     ];
 
-    public string $goal = "Building clean, scalable web applications";
+    public function philosophy(): string
+    {
+        return "Clean code isn't a luxury — it's how you scale a team, not just an app.";
+    }
 
-    public function currentlyLearning(): array
+    public function currentFocus(): array
     {
         return [
-            "Laravel Queues & Events",
-            "Advanced React Patterns",
-            "API Development Best Practices",
+            'Advanced Laravel: Queues, Events & Broadcasting',
+            'React design patterns & scalable state management',
+            'API architecture & versioning strategy',
+            'Mentoring junior devs & code review practices',
         ];
     }
 }
-🗂️ Professional Profile Overview
-<div align="center"><img src="profile-overview.png" width="100%" alt="Professional Profile - Wasif Ahmed | Full-Stack Laravel Developer"/></div>
-🛠️ Tech Stack
+```
+
+---
+
+## 🗂️ Professional Snapshot
+
 <div align="center">
-Backend
 
-PHP
-Laravel
-MySQL
-
-Frontend
-
-React
-TypeScript
-Inertia.js
-Blade
-HTML5
-CSS3
-
-Tools & Workflow
-
-Git
-GitHub
-Composer
-VS Code
+| 💼 Role | 🏢 Company | 📍 Location | 🎯 Focus |
+|:---:|:---:|:---:|:---:|
+| Mid-Level Laravel Developer | MTS-Services | Bangladesh 🇧🇩 | Scalable Web Apps |
 
 </div>
-📊 GitHub Stats
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasifahmed85&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifahmed85&layout=compact&theme=radical&hide_border=true&langs_count=8"/></div><div align="center">
-GitHub Streak
 
-</div><div align="center">
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-🚀 Featured Projects
-<div align="center">
-admin-layout-email-verification
-admin-layout-mail-otp
 
-Laravel-React-Inartia-Template
-my-first-github-report
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=wasifahmed85&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifahmed85&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasifahmed85&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasifahmed85&theme=redical&hide_border=true" width="100%"/>
 
 </div>
-🌱 Currently Learning & Goals
-<table align="center"> <tr> <td align="center" width="200"> <img src="https://img.shields.io/badge/Laravel-Advanced-FF2D20?style=flat-square&logo=laravel&logoColor=white"/><br/> <sub>Queues, Events & Broadcasting</sub> </td> <td align="center" width="200"> <img src="https://img.shields.io/badge/React-Patterns-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/> <sub>Advanced Hooks & State Management</sub> </td> <td align="center" width="200"> <img src="https://img.shields.io/badge/API-Design-005C84?style=flat-square&logo=swagger&logoColor=white"/><br/> <sub>REST API Best Practices</sub> </td> </tr> </table>
-📈 Contribution Activity
+
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
-Activity Graph
+
+<a href="https://github.com/wasifahmed85/admin-layout-email-verification">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=admin-layout-email-verification&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/wasifahmed85/admin-layout-mail-otp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=admin-layout-mail-otp&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/wasifahmed85/Laravel-React-Inartia-Template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=Laravel-React-Inartia-Template&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/wasifahmed85/my-first-github-report">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=my-first-github-report&theme=radical&hide_border=true"/>
+</a>
 
 </div>
-🤝 Connect With Me
+
+---
+
+## 🌱 Currently Sharpening
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Laravel-Advanced-FF2D20?style=flat-square&logo=laravel&logoColor=white"/><br/>
+      <sub>Queues, Events & Broadcasting</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/React-Patterns-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+      <sub>Advanced Hooks & State Management</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/API-Design-005C84?style=flat-square&logo=swagger&logoColor=white"/><br/>
+      <sub>REST API Best Practices</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-LinkedIn
-GitHub
-Email
-WhatsApp
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasifahmed85)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasifahmed85)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasifahmed85@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8800000000)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=wasifahmed85&color=FF2D20&style=for-the-badge)
+
+<br/>
+
+### *"Clean code, clean architecture, clean future."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:9333EA,100:FF2D20&height=120&section=footer" width="100%"/>
 
 </div>
-<div align="center">
-Profile Views
-
-"Clean code, clean architecture, clean future."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,100:FF2D20&height=100&section=footer" width="100%"/></div>
