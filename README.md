@@ -113,7 +113,7 @@ final class WasifAhmed extends Developer implements FullStackCapable
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasifahmed85&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasifahmed85&theme=redical&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasifahmed85&theme=radical&hide_border=true" width="100%"/>
 
 </div>
 
@@ -121,22 +121,44 @@ final class WasifAhmed extends Developer implements FullStackCapable
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/wasifahmed85/admin-layout-email-verification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=admin-layout-email-verification&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/wasifahmed85/admin-layout-mail-otp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=admin-layout-mail-otp&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/wasifahmed85/Laravel-React-Inartia-Template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=Laravel-React-Inartia-Template&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/wasifahmed85/my-first-github-report">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasifahmed85&repo=my-first-github-report&theme=radical&hide_border=true"/>
-</a>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📧 Admin Layout — Email Verification</h3>
+      <p>A Laravel admin panel starter with built-in email verification flow — signup, verify, and guarded routes out of the box.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <br/>
+      <a href="https://github.com/wasifahmed85/admin-layout-email-verification"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Admin Layout — Mail OTP</h3>
+      <p>Admin panel starter using one-time-password authentication delivered via email instead of static passwords.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <br/>
+      <a href="https://github.com/wasifahmed85/admin-layout-mail-otp"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Laravel + React + Inertia Template</h3>
+      <p>A ready-to-clone starter wiring Laravel, React, and Inertia.js together for fast SPA-style app builds.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white"/>
+      <br/>
+      <a href="https://github.com/wasifahmed85/Laravel-React-Inartia-Template"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 My First GitHub Report</h3>
+      <p>An early project exploring GitHub data and reporting — one of the first steps on the journey documented in this profile.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <br/>
+      <a href="https://github.com/wasifahmed85/my-first-github-report"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
