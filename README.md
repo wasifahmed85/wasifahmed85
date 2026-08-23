@@ -167,16 +167,16 @@ final class WasifAhmed extends Developer implements FullStackCapable
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/Laravel-Advanced-FF2D20?style=flat-square&logo=laravel&logoColor=white"/><br/>
-      <sub>Queues, Events & Broadcasting</sub>
-    </td>
-    <td align="center" width="220">
       <img src="https://img.shields.io/badge/React-Patterns-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
       <sub>Advanced Hooks & State Management</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/API-Design-005C84?style=flat-square&logo=swagger&logoColor=white"/><br/>
-      <sub>REST API Best Practices</sub>
+      <img src="https://img.shields.io/badge/Testing-Pest%20%2F%20PHPUnit-4E9A06?style=flat-square&logo=php&logoColor=white"/><br/>
+      <sub>Automated Testing & TDD</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/DevOps-CI%2FCD-2496ED?style=flat-square&logo=githubactions&logoColor=white"/><br/>
+      <sub>Docker & Deployment Pipelines</sub>
     </td>
   </tr>
 </table>
