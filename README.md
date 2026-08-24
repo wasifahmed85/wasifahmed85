@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,50:9333EA,100:6C3483&height=220&section=header&text=Wasif%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mid-Level%20Laravel%20Developer%20%7C%20PHP%20%7C%20React%20%7C%20Inertia.js&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/wasifahmed85">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+Laravel+applications;Turning+ideas+into+clean+code;Backend+today%2C+full-stack+tomorrow;Currently+shipping+at+%40MTS-Services&font=Fira+Code&center=true&width=600&height=45&color=FF2D20&vCenter=true&size=20&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+Laravel+applications;Turning+ideas+into+clean+code;Backend+today%2C+full-stack+tomorrow&font=Fira+Code&center=true&width=600&height=45&color=FF2D20&vCenter=true&size=20&pause=1200" />
 </a>
 
 </div>
