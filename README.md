@@ -84,57 +84,74 @@ final class WasifAhmed extends Developer implements FullStackCapable
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Backend Development
-![PHP](https://img.shields.io/badge/PHP_8.4+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_13.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Octane](https://img.shields.io/badge/Laravel_Octane-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-Laravel 13.x for enterprise-grade applications, Livewire 3.x/4.x for reactive UIs, Laravel Octane (RoadRunner/FrankenPHP) for high-performance apps, Sanctum & Passport for secure authentication, REST APIs, WebSockets & real-time development, and an event-driven architecture built on Events, Listeners, Queues, Jobs, and Notifications — backed by the wider Laravel ecosystem (Inertia, Horizon, Telescope).
-
-### Frontend Development
-![React](https://img.shields.io/badge/React_19.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15/16-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js_3.x-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-React 19.x for component-based UIs, Next.js 15.x/16.x for full-stack React with SSR, SSG, and Server Components, React + Inertia.js for SPA-style development on top of Laravel, TypeScript 5.x for scalable frontend engineering, and modern JavaScript (ES2025+) with semantic, responsive HTML5 & CSS3.
-
-### UI Engineering & Animation
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5.x-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP_3.x-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-Tailwind CSS 4.x and Bootstrap 5.x for utility-first and responsive UI development, GSAP 3.x and Framer Motion for advanced animation and interactive experiences, Shadcn/UI for reusable component systems, plus responsive design and cross-browser optimization.
-
-### Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_18.x-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_8.x-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-PostgreSQL 18.x and MySQL 8.x for enterprise-grade relational data, Redis 8.x for caching, queues, and high-performance data handling, along with database architecture, complex query design, indexing, migrations, and performance tuning.
-
-### DevOps & Cloud Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-Docker & Docker Compose for containerized development and deployment, Coolify for self-hosted deployments, FrankenPHP with Laravel Octane for high-performance infrastructure, Nginx/Apache server configuration, Linux (Ubuntu) server management, CI/CD automation, Git/GitHub/GitLab workflows, and cloud hosting across AWS, DigitalOcean, Hetzner, and Cloudflare.
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Backend Development</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP_8.4+-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel_13.x-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Octane-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Laravel 13.x · Livewire 3.x/4.x · Laravel Octane (RoadRunner/FrankenPHP) · Sanctum & Passport · REST APIs · WebSockets & real-time · Events, Listeners, Queues, Jobs, Notifications · Horizon, Telescope, Inertia</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Frontend Development</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_19.x-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Next.js_15/16-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript_5.x-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white"/>
+      </p>
+      <p align="center"><sub>React 19.x · Next.js 15.x/16.x with SSR, SSG & Server Components · React + Inertia.js SPA development · TypeScript 5.x · ES2025+ JavaScript · semantic HTML5 & CSS3</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ UI Engineering & Animation</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tailwind_4.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap_5.x-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GSAP_3.x-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Tailwind CSS 4.x · Bootstrap 5.x · GSAP 3.x & Framer Motion · Shadcn/UI · responsive design & cross-browser optimization</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ Database & Storage</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL_18.x-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL_8.x-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis_8.x-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      </p>
+      <p align="center"><sub>PostgreSQL 18.x · MySQL 8.x · Redis 8.x for caching, queues & high-performance data · query optimization, indexing & migrations</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ DevOps & Cloud Infrastructure</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Docker & Docker Compose · Coolify · FrankenPHP + Octane · Nginx/Apache · Linux (Ubuntu) · CI/CD · AWS, DigitalOcean, Hetzner, Cloudflare</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔧 Tools & Workflow</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white"/>
+      </p>
+      <p align="center"><sub>Git, GitHub & GitLab workflows · Composer · npm · clean version control practices</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
