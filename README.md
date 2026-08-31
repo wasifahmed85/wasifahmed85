@@ -175,8 +175,7 @@ Integrating OpenAI, Claude, and Google Gemini APIs, along with custom third-part
 ## 🌐 CMS Development
 
 - **WordPress Custom Plugin Development**
-
----
+- **Headless Website Development** (WordPress REST API / GraphQL + Next.js / React)
 
 ## 🎯 Development Approach
 
